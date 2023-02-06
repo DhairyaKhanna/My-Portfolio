@@ -1,0 +1,25 @@
+body{
+    background-color: #dae4ee;
+}
+
+.home{
+   height: 100vh;
+    background: linear-gradient(rgba(1,1,1,0.5),rgba(0, 0, 0, 1)),
+    url('../images/Mobile-App-Development-Company.png');
+    background-size: cover;
+
+    
+}
+
+.intro{
+    color: white;
+    padding: 10% 20%;
+    text-align: justify;
+    font-size: 20px;
+
+}
+
+.name{
+    font-size: 50px;
+    font-weight: 500;
+}
